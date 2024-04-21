@@ -1,0 +1,180 @@
+[STARTING] server is starting...
+[LISTENING] Server is listening on 127.0.1.1
+[NEW CONNECTION] ('127.0.0.1', 41040) connected.
+[ACTIVE CONNECTIONS] 1
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+[NEW CONNECTION] ('127.0.0.1', 41052) connected.
+[ACTIVE CONNECTIONS] 2
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f376987b50>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cc2e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769878e0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f376987310>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cca30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cd180>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cd8d0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769ce020>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f376986fb0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cd510>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+from: [('127.0.0.1', 41040)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769ccdc0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41040)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 41040)
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses/RobotOne (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cca30>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 41040) closed.
+Sent heartbeat to: [('127.0.0.1', 41052)]
+from: [('127.0.0.1', 41052)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769cc3a0>: Failed to establish a new connection: [Errno 111] Connection refused'))
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+Sent heartbeat to: [('127.0.0.1', 41052)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 41052)
+Exception: Check if multiple client modify same robot object in API: HTTPConnectionPool(host='127.0.1.1', port=5000): Max retries exceeded with url: /api/courses/RobotOne (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x73f3769ce800>: Failed to establish a new connection: [Errno 111] Connection refused'))
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 41052) closed.
+ CTRL+C

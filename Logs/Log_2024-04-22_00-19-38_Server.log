@@ -1,0 +1,177 @@
+[STARTING] server is starting...
+[LISTENING] Server is listening on 127.0.1.1
+[NEW CONNECTION] ('127.0.0.1', 48352) connected.
+[ACTIVE CONNECTIONS] 1
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 201
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+[NEW CONNECTION] ('127.0.0.1', 50480) connected.
+[ACTIVE CONNECTIONS] 2
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 200
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+from: [('127.0.0.1', 50480)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 200
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+from: [('127.0.0.1', 50480)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 200
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+from: [('127.0.0.1', 50480)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 200
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+from: [('127.0.0.1', 50480)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+from: [('127.0.0.1', 48352)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Response code: 200
+Response json: {'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+from: [('127.0.0.1', 50480)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+Sent heartbeat to: [('127.0.0.1', 50480)]
+Sent heartbeat to: [('127.0.0.1', 48352)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 48352)
+Response code: 204
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 48352) closed.
+Sent heartbeat to: [('127.0.0.1', 50480)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 50480)
+HTTPError: Internal server error. Check if multiple client modify same robot object in API..... 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses/RobotOne
+HTTPError: 500 Server Error: INTERNAL SERVER ERROR for url: http://127.0.0.1:5000/api/courses/RobotOne
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 50480) closed.
+ CTRL+C

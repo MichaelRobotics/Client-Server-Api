@@ -1,0 +1,2134 @@
+[STARTING] server is starting...
+[LISTENING] Server is listening on 127.0.1.1
+[NEW CONNECTION] ('127.0.0.1', 41446) connected.
+[ACTIVE CONNECTIONS] 1
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+from: [('127.0.0.1', 41446)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+201
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+from: [('127.0.0.1', 41446)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+from: [('127.0.0.1', 41446)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+from: [('127.0.0.1', 41446)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+from: [('127.0.0.1', 41446)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+Sent heartbeat to: [('127.0.0.1', 41446)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 41446)
+204
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 41446) closed.
+[NEW CONNECTION] ('127.0.0.1', 57528) connected.
+[ACTIVE CONNECTIONS] 1
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+[NEW CONNECTION] ('127.0.0.1', 57536) connected.
+[ACTIVE CONNECTIONS] 2
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+201
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+500
+{'message': 'Internal Server Error'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+[NEW CONNECTION] ('127.0.0.1', 51852) connected.
+[ACTIVE CONNECTIONS] 3
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+500
+{'message': 'Internal Server Error'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 57528)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+from: [('127.0.0.1', 57536)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+200
+{'id': 4, 'IP': '127.0.1.1', 'name': 'RobotOne'}
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57528)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 57528)
+204
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 57528) closed.
+Sent heartbeat to: [('127.0.0.1', 51852)]
+from: [('127.0.0.1', 51852)] Received object: {'IP': '127.0.1.1', 'name': 'RobotOne'}
+500
+{'message': 'Internal Server Error'}
+Sent heartbeat to: [('127.0.0.1', 51852)]
+Sent heartbeat to: [('127.0.0.1', 51852)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 51852)
+500
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 51852) closed.
+Sent heartbeat to: [('127.0.0.1', 57536)]
+Sent heartbeat to: [('127.0.0.1', 57536)]
+[ERROR] BrokenPipeError occurred for client ('127.0.0.1', 57536)
+500
+[CONNECTION CLOSED] Connection with ('127.0.0.1', 57536) closed.
+ CTRL+C
